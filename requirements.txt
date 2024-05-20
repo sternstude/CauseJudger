@@ -1,0 +1,12 @@
+accelerate==0.24.1
+guidance==0.0.61
+numpy==1.26.2
+openai==0.28.0
+pandas==2.1.3
+scipy==1.11.3
+sentencepiece==0.2.0
+tokenizers==0.15.0
+torch==2.1.1
+tqdm==4.66.1
+transformers==4.35.2
+tqdm==4.66.1
