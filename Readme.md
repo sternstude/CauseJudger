@@ -12,4 +12,4 @@ More research details and specific code implementation will be made public after
 
 ### Version
 
-- 2024-5-22: Dataset and experimental results is available now. Code will be released after the acceptance of our paper.
+- 2024-5-22: The CauseLogics Dataset and experimental results of CauseExplorer are now publicly available. The code will be released after the acceptance of our work.
