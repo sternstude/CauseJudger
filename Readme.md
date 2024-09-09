@@ -1,15 +1,11 @@
-# CauseExplorer
+# CauseJudger
 
 ### Introduction
 
-Work for The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
+Work for AAAI 2025.
 
-**CauseExplorer (CE)** is a new framework for **LLMs abductive reasoning**, which determines the authenticity of possible cause by transforming thinking from reverse to forward and removing irrelevant information.
+**CauseJudger (CJ)** is a new framework for **LLMs abductive reasoning**, which determines the authenticity of possible cause by transforming thinking from reverse to forward and removing irrelevant information.
 
 **CauseLogics** is an abductive logical reasoning decision dataset, which contains tasks of varying reasoning lengths.
 
-More research details and specific code implementation will be made public after our work is accepted
-
-### Version
-
-- 2024-5-22: The CauseLogics Dataset and experimental results of CauseExplorer are now publicly available. The code will be released after the acceptance of our work.
+The CauseLogics Dataset and experimental results of CauseJudger are now publicly available. The code will be released after the acceptance of our work.
